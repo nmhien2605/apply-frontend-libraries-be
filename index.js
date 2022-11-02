@@ -4,8 +4,8 @@
  * Module dependencies.
  */
 
-var app = require('../app');
-var debug = require('debug')('apply-frontend-libraries-be:server');
+var app = require('./app');
+var debug = require('debug')('registration-backend:server');
 var http = require('http');
 
 /**
